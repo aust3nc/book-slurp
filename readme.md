@@ -6,14 +6,13 @@ This program implements a simple set of functions to read a book file URL, remov
 
 # Development Environment
 
--> Visual Studio IDE
--> Calva Extension for Clojure
--> Clojure language
--> Java IO Library
+* Visual Studio IDE
+* Calva Extension for Clojure
+* Clojure language
+* Java IO Library
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [4Clojure](https://4clojure.oxal.org/)
 * [SciCloj (clojure for data science)](https://scicloj.github.io/blog-test/pages/libraries/)
 
